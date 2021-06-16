@@ -23,7 +23,7 @@ description: >-                        # used by seo meta and the atom feed
   Happy coding, Happy living!
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://archzi.github.io'
+url: https://archzi.github.io
 
 author: archzi                  # change to your full name
 

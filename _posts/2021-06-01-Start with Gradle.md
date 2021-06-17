@@ -22,7 +22,7 @@ gralde 是一个 开源的自动化构建工具，设计的初衷就是为了足
 # 关键点
 ## gradle 是一个通用型构建工具，而不只是为了构建 Java application 
 
-    ![](/assets/img/post/image2021-6-7_14-2-33.png)
+![](/assets/img/post/image2021-6-7_14-2-33.png)
 
 ## 核心模型基于 tasks
 

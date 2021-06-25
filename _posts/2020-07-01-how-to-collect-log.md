@@ -10,7 +10,7 @@ tags: [总结]     # TAG names should always be lowercase
 # logstash
 
 - 缺点：
-  1. 性能问题 具体 benchmark 可以(参考)[https://sematext.com/blog/2016/04/25/elasticsearch-ingest-node-vs-logstash-performance/]
+  1. 性能问题 具体 benchmark 可以参考[链接](https://sematext.com/blog/2016/04/25/elasticsearch-ingest-node-vs-logstash-performance/)
   2. 不支持缓存，典型的替代方案还得依赖 kafka 或者Redis 作为中心缓存池
 
 # Flume
